@@ -5,3 +5,6 @@ In the [issues](https://github.com/meduzen/learning-backlog/issues) of this repo
 You’re free to ask questions, comment or give recommandations in these issues.
 
 This list was initially started using Basecamp in June 2020, and was migrated to GitHub during Summer 2025.
+
+> [!WARNING]
+> List not fully migrated yet. Around 50 items remaining.
