@@ -1,6 +1,6 @@
 # Partial learning backlog
 
-In the [issues](https://github.com/meduzen/learning-backlog/issues) of this repo, I list some stuff I would like to give a look at some point. It’s a partial backlog: most things interesting me are not in it.
+In the [issues](https://github.com/meduzen/learning-backlog/issues) of this repo, I list some stuff I would like to give a look at some point. It’s a partial backlog: most things interesting me are not in it. Browsing [by labels](https://github.com/meduzen/learning-backlog/labels) can be a good idea.
 
 ## History
 
