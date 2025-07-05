@@ -16,6 +16,6 @@ This list was initially started using Basecamp in June 2020, and was migrated to
 - I often use GitHub and I even have the app on my phone, so it’s more reachable than other systems that would log me out after some time. Proof: I’m writing this section from my phone.
 - GitHub issues are a good place for tracking and categorizing (using labels) this kind of backlog.
 - I can make it public or private easily.
-- Other developers can comment or ask questions, and a lot of them use GitHub.
+- Other developers can comment or ask questions and a lot of them use GitHub. They can also watch the repository to be notified when I add something, which is a nice way to discover new things.
 
 So for now I’ll stick with GitHub.
