@@ -6,7 +6,7 @@ You’re free to ask questions, comment or give recommandations in these issues.
 
 ## History
 
-This list was initially started using Basecamp in June 2020, and was migrated to GitHub during Summer 2025.
+This list was initially started using Basecamp in June 2020, and was migrated to GitHub during Summer 2025. Issues 2 to _to complete once everything migrated_ are the ones migrated.
 
 > [!WARNING]
 > List not fully migrated yet. Around 50 items remaining.
